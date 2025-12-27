@@ -1,5 +1,3 @@
-# PinkBlackPanthers.github.io
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
