@@ -46,9 +46,9 @@
 <section id="events">
     <h2>Veranstaltungen</h2>
     <ul>
-        <li>Rennrad-Tour Ginkgo – 15. Mai 2026</li>
-        <li>Triathlon Sommercup – 22. Juni 2026</li>
-        <li>Winter-Lauf Challenge – 10. Januar 2026</li>
+        <li>Trainingslager auf Mallorca - 10. April bis 19. April 2026</li>
+        <li>Rund um Köln - 17. Mai 2026</li>
+        <li>Rad am Ring – 24. Juli bis 26. Juli 2026</li>
     </ul>
 </section>
 
@@ -56,15 +56,15 @@
     <h2>Unser Team</h2>
     <div class="team">
         <div class="team-member">
-            <h3>Anna Müller</h3>
+            <h3></h3>
             <p>1. Vorsitzende</p>
         </div>
         <div class="team-member">
-            <h3>Max Schmidt</h3>
+            <h3></h3>
             <p>Kassenwart</p>
         </div>
         <div class="team-member">
-            <h3>Lisa Meier</h3>
+            <h3></h3>
             <p>Sportwartin</p>
         </div>
     </div>
