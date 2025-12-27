@@ -56,15 +56,15 @@
     <h2>Unser Team</h2>
     <div class="team">
         <div class="team-member">
-            <h3></h3>
+            <h3>x</h3>
             <p>1. Vorsitzende</p>
         </div>
         <div class="team-member">
-            <h3></h3>
+            <h3>x</h3>
             <p>Kassenwart</p>
         </div>
         <div class="team-member">
-            <h3></h3>
+            <h3>x</h3>
             <p>Sportwartin</p>
         </div>
     </div>
