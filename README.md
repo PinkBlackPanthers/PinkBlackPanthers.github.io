@@ -33,7 +33,7 @@
     <p>Wir sind ein Multisport-Verein: Radfahren, Laufen, Triathlon und Wintersport.  
     Gemeinsam trainieren, starten und Spaß haben – egal ob Anfänger oder Profi!</p>
     <a href="#contact" class="button">Mitglied werden</a>
-    <img src="bilder/logo.png" alt="Logo Radclub Musterstadt">
+    <img src="Bilder/IMG_7192.JPG" alt="Logo Radclub Musterstadt">
     
 </section>
 
