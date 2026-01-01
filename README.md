@@ -18,7 +18,7 @@
 <body>
 
 <header>
-    <h1>PinkBlack Panthers xxe.V.</h1>
+    <h1>PinkBlack Panthers xx  e.V.</h1>
     <nav>
         <a href="#home">Start</a>
         <a href="#about">Über uns</a>
